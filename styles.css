@@ -1,0 +1,46 @@
+body{
+
+background: black;
+color: white;
+
+}
+
+.col-sm-10{
+
+border: lightgray solid 1px;
+
+
+}
+
+h1{
+
+background-color: #333;
+
+
+
+}
+
+#shouts{
+
+height: 300px;
+background-color: white;
+color:black;
+overflow: scroll;
+
+}
+
+#form{
+
+background-color: darkgray;
+padding: 10px;
+
+
+}
+
+.list-group-item:nth-child(2n){
+
+
+background-color: lightgray;
+
+}
+
